@@ -1,0 +1,17 @@
+h3 {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    position: relative;
+}
+
+.jumbotron {
+  background-image: url("desktop/phoenix one page/images/grips.png");
+  background-size: cover;
+}
+.story {
+    display: inline-block;
+}
+
+.littleImage {
+    text-align: center;
+}
